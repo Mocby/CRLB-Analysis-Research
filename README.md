@@ -28,6 +28,3 @@ This repository will be extended to include:
 - Deep learning-based imputation evaluation
 
 ---
-
-**Author**: [Your Name]  
-**Affiliation**: PhD Student, Computer Engineering, University of Missouri  
