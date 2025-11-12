@@ -8,7 +8,7 @@ from scipy.linalg import expm
 # ===========================
 SEED_BASE = 123
 T = 5.0
-N = 100                    # smaller N makes methods differ more
+N = 1000                    # smaller N makes methods differ more
 sigma = 0.20              # a bit more noise
 A = 1.0
 zeta = 0.2
@@ -453,3 +453,4 @@ plt.legend(ncol=2)
 plt.tight_layout()
 plt.savefig("phi_variance_plot_saits_with_CI.pdf", format="pdf", bbox_inches="tight")
 plt.show()
+
