@@ -9,6 +9,9 @@ This repository contains theoretical and experimental Python scripts for analyzi
 - `Comparison of CRLBs with and without Imputation.py`: Introduces an imputation-adjusted CRLB and compares three variants.
 - `Uncertainty impact on different levels of CRLB.py`: Studies how imputation uncertainty (α) influences CRLB under various missing data ratios.
 
+Results:
+[CRLB_with_and_without_missing.pdf](https://github.com/user-attachments/files/23922566/CRLB_with_and_without_missing.pdf)
+
 ### 🧪 Experimental Analysis
 - `MAE of Estimated Phi for Different Missing Data Fractions.py`: Computes Mean Absolute Error of estimated phase using LOCF, Linear, and Simulated imputation across missing data levels.
 - `Variance of Estimated Phi for Different Missing Data Fractions.py`: Evaluates variance of estimated phase and compares it to theoretical CRLBs.
