@@ -17,7 +17,7 @@ This repository contains theoretical and experimental Python scripts for analyzi
 
 ## 📈 Techniques Used
 - Maximum Likelihood Estimation (MLE) for phase parameter.
-- Imputation methods: LOCF, Linear Interpolation, and Simulation-based.
+- Imputation methods: Last Observation Carried Forward (LOCF), Linear Interpolation,RTS Smoother,SAITS (Transformer-based), Bayesian Imputation, and Simulation-based.
 - Statistical validation using variance, MAE, and Shapiro-Wilk test.
 - Theoretical derivation and empirical confirmation of CRLBs.
 
